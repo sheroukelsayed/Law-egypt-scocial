@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+python-dotenv
+docker
+transformers
+sentence-transformers
+langchain-community
+openpyxl
+pandas
+googlesearch-python
